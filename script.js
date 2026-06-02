@@ -1,5 +1,5 @@
 /* ===================================
-   SARMAD NAJEEB PORTFOLIO
+   AHMER NAJEEB PORTFOLIO
    JavaScript Interactions
    =================================== */
 
